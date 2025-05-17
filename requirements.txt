@@ -1,4 +1,3 @@
 requests
 telebot
-threading
 lock.py
